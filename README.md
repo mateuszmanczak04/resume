@@ -1,6 +1,6 @@
 # Mateusz Mańczak - Resume
 
-![my face](image.jpeg)
+<img src="image.jpeg" alt="my face" width="160">
 
 ## Experience
 
